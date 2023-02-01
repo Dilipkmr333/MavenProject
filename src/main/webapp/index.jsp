@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome</title>
+		<title>Dilip</title>
 	</head> 
 	<center><h1>Hello! welcome to Java App Deployment Page no</h1></center>
 	<body>
